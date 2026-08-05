@@ -1,6 +1,6 @@
 # first-repo
 My name is Jayesh Patil
 <br>
-Student of GPS
+Diploma Pass out - GP Sakoli
 <br>
-Branch - CM
+Heading Towards the Mountain
